@@ -67,6 +67,11 @@ a{
     font-weight: 700;
 }
 
+a:hover{
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
 .principal{
     max-width: 60%;
     margin: 0 auto;
